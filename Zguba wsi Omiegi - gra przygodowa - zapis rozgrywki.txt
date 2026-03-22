@@ -1,0 +1,227 @@
+Zguba wsi Omiegi - gra przygodowa
+---------------------------------
+
+W cieniu pierwotnej puszczy, pod spojrzeniem złowrogich sił, człowiek uparcie żyje - i stara się z życia czerpać, ile może.
+
+Nazywają cię po prostu Domokrążcą, bo krążysz po całym świecie, od domu do domu, od jednych kupując, innym sprzedając, jeszcze innym opowiadając swe przygody.
+Zawędrowałeś dziś rano do wsi o nazwie Omiegi, położonej u samych stóp czarnej puszczy. Okazało się, że szczęśliwie trafiłeś - dziś odbywają się zaślubiny młodej pary. Zaproszono cię do udziału w zabawach i nie odmówiłeś.
+W czasie ceremonii okazało się, że dłoń Pana Młodego zsiniała i spuchła tak, że nie dało się wsunąć na palec obrączki. Młodzieniec zbył ten fakt żartem i wsunął obrączkę na drugą dłoń. Wszyscy wiwatowali, choć Panna Młoda patrzyła na męża z mieszaniną podejrzliwości i troski.
+Od tamtej pory minęło kilka godzin, wesele nabrało rozpędu i izbę weselną wypełniają śmiechy i okrzyki. Słońce zachodzi. Przez okna wpada chłodny, jesienny wiatr. Spuchnięta dłoń Pana Młodego nie daje ci spokoju.
+Jeśli chcesz dojść do sedna tej sprawy, lepiej się spiesz - o północy oczepiny!
+
+Zachód słońca: Krwawy blask zachodzącego słońca zalewa okolicę.
+
+Wnętrze izby rozświetlają świece. Ławy, rozstawione tak licznie jak to było możliwe w dosyć ciasnym pomieszczeniu, zastawione są suto różnego rodzaju strawą i napitkiem. Bielone ściany ozdabiają trofea i mające odpędzać złe moce zioła. Drzwi izby otwierają się na wschód.
+
+Na środku izby, otoczona roześmianymi druhnami, siedzi *Panna Młoda* w kwiecistym wianku weselnym.
+*Pan Młody* pije z dwójką *Gości Weselnych.*
+*Goście Weselni*, w liczbie większej niż kopa, ledwie się pomieścili w izbie.
+Na ławie leży *Czapka z Piór*.
+*Drzwi do Izby* są otwarte.
+> pomoc
+
+DOSTĘPNE POLECENIA
+- n/e/s/w
+    przemieszcza Domokrążcę do lokacji położonej na północ, wschód, południe albo zachód od aktualnej lokacji Domokrążcy, o ile to możliwe (np. na drodze nie stoją zamknięte drzwi)
+- zapytaj <postać> o <zagadnienie>
+    prowokuje dialog z podaną postacią na temat podanego zagadnienia, o ile postać znajduje się w lokacji Domokrążcy i wie coś na ten temat
+- użyj <przedmiot> na <obiekt>
+    dokonuje interakcji z obiektem przy użyciu przedmiotu
+- podnieś <przedmiot>
+    dodaje znajdujący się w lokacji Domokrążcy przedmiot do ekwipunku
+- zastrzel <postać>
+    powoduje zastrzelenie postaci, jeżeli Domokrążca posiada właściwy do tego przedmiot
+- rozejrzyj
+    wywołuje opis sytuacji, podając lokację oraz zajdujące się w niej postacie, przedmioty i obiekty; podaje porę dnia
+- czekaj
+    sprawia, że Domokrążca czeka, aż coś się stanie bez jego udziału; lepiej zastanów się dobrze przed użyciem tego polecenia
+- dziennik
+    wypisuje poznane zagadnienia z dziennika Domokrążcy wraz z ich opisem
+- ekwipunek
+    wypisuje posiadane przedmioty z ekwipunku Domokrążcy wraz z ich opisem
+- pomoc
+    wyświetla niniejszą listę dostępnych poleceń
+- zrezygnuj
+    powoduje przedwczesny koniec gry
+> podnieś Czapka z Piór
+
+!! Nowy przedmiot w ekwipunku: Czapka z Piór
+> ekwipunek
+
+EKWIPUNEK
+- Czapka z Piór
+    Dobrze, że właściciel zgubił ją, a nie coś cennego. Na przykład buty. Trza być w butach na weselu.
+- Plecak
+    Dosyć pojemny, skórzany plecak.
+> dziennik
+
+DZIENNIK
+- Wesele
+    Trwa wesele.
+- Spuchnięta Dłoń
+    Dłoń Pana Młodego jest sina i spuchnięta. Wygląda to przynajmniej na zakażenie. Panna Młoda się martwi.
+> zapytaj Goście Weselni o Wesele
+
+'Zabawa dobra, choć towarzystwo wcale przaśne, proszę waszeci', mówi pryszczaty podrostek - mieszczuch, sądząc z treści i wymowy. 'Ja nie wiem, jakie to jest przaśne towarzystwo, ale skorośmy już w temacie, to przykro mi trochę, że ojciec Pana Młodego nie zaszczycił', żali się siedzący obok niego na ławie staruszek. 'Ano nie zaszczycił, bo ma robotę! Nasz Stróż jest człowiek porządny i pracowity, ot co! Młodzi na pewno mu nie mają za złe', wtrąca się gospodyni, niosąc kolejny talerz z serem. Gdy temat schodzi na bieżące plotki o życiu prywatnym Stróża, jego chorej nodze i rzekomym romansie z rusałką w młodości, tracisz zainteresowanie.
+> zapytaj Pan Młody o Spuchnięta Dłoń
+
+'Co z nią? No, spuchła trochę, i co? Czekaj, bo mnie wołają. Już idę!', odpowiada wymijająco Pan Młody, po czym oddala się na drugi koniec izby. Nie słyszałeś, żeby ktoś go wołał.
+> zapytaj Panna Młoda o Spuchnięta Dłoń
+
+'Och, tak, zauważyłam. Ciężko nie zauważyć...', odpowiada Panna Młoda, marszcząc brwi. 'Nie wiem dlaczego, ale nie chce i mi powiedzieć, co się stało. Wcześniej nie była aż tak sina i spuchnięta, ale parę dni temu miał wieczór kawalerski i to chyba wtedy się zranił. Może zrobił jaką głupotę i tym dłoń skaleczył, a nie powie, bo mu wstyd? Bawił się z kilkoma innymi chłopcami... wyjątkowo podłe towarzystwo, za przeproszeniem. Mało im było zabawy i jeszcze wczoraj poprawili, to teraz leżą w stodole i dochodzą do siebie. Może oni coś wiedzą, ale ja z nimi nie mam zamiaru rozmawiać'. Panna Młoda wzdycha ciężko i kręci głową. 'Ech, mógłby mi choć opuchliznę dać do obejrzenia, bałwan...'
+!! Nowe zagadnienie w dzienniku: Wieczór Kawalerski
+> dziennik
+
+DZIENNIK
+- Wieczór Kawalerski
+    Pan Młody ponoć nieźle zabawił na wieczorze kawalerskim. Panna Młoda sądzi, że mógł skaleczyć się wtedy - jeśli tak było, jego Towarzysze Zabawy powinni o tym wiedzieć. Powinni być w stodole, gdzie dochodzą do siebie.
+- Wesele
+    Trwa wesele.
+- Spuchnięta Dłoń
+    Dłoń Pana Młodego jest sina i spuchnięta. Wygląda to przynajmniej na zakażenie. Panna Młoda się martwi.
+> e
+
+Zachód słońca: Krwawy blask zachodzącego słońca zalewa okolicę.
+
+Mały plac stanowi centrum wsi, zaś centrum placu stanowi studnia. Na zachodzie jest izba weselna, na wschodzie stodoła, na południu wznosi się strażnica, na której szczycie widzisz sylwetkę Stróża, ściskającą w dłoni strzelbę, strzegącą w milczeniu wsi. Od północy do wsi przylega ciemny, gęsty las, do którego prowadzi wąska, kręta ścieżka, wyraźnie z rzadka tylko uczęszczana.
+
+Przy studni siedzi *Dziad Proszalny* i ściąga bandaże ze zdrowej nogi.
+*Drzwi do Izby* są otwarte.
+> zapytaj Dziad Proszalny o Wieczór Kawalerski
+
+'Oj, nie wiem, czy słyszałem. A za ile?' Rzucasz Dziadowi Proszalnemu denara. 'Cała wieś słyszała, chłopcze, hałas robili, jakby Panu Młodemu żona już miała nigdy nie dać pokrzyczeć. Może i jest coś na rzeczy?' Zaczyna ci być żal wydanego denara, ale żebrak ciągnie dalej. 'Widziałem, jak z lasu wracali, jeden niósł szpadel. Jeśliś, chłopcze, uparty, i zamierzasz leźć ich śladem, to pamiętaj jedno: Nie zbaczaj ze ścieżki.'
+> e
+
+Zmrok: Słońce schowało się za horyzontem, a mrok powoli ogarnia wieś.
+
+Otwierające się na zachód drzwi do stodoły były otwarte. Wnętrze wypełnia woń słomy, stęchlizny i alkoholu.
+
+Na stogu siana pod ścianą stodoły leży trzech mężczyzn. Zbudzeni przez twoje nagłe wtargnięcie masują skronie i jęczą. To z pewnością *Towarzysze Zabawy*, którzy wciąż odpokutowują wieczór kawalerski.
+O ścianę stodoły oparty jest *Szpadel*.
+> zapytaj Towarzysze Zabawy o Wieczór Kawalerski
+
+'Hę? Czego chce, spać nie daje, Boszszee...' Wyjaśniasz zmęczonym nocą młodzieńcom, po co przyszedłeś. 'No tak, poszliśmy, znaczy... No, na polanę, na północy, ogólnie, i żeśmy... No, zabawę sobie zrobili. Jak się skaleczył, to tam pewnie, bo gdzie? Ja go chyba nie ugryzłem... Nie pamiętam, przynajmniej. Nie wiem, sam idź tam jak chcesz, jak nie będziesz skręcał trafisz, ale jak dla mnie to wcale nie było takie znowu... ćśśsiekawe...' Chłopak osuwa się z powrotem na siano. Może tyle informacji ci wystarczy?
+> podnieś Szpadel
+
+!! Nowy przedmiot w ekwipunku: Szpadel
+> w
+
+Zmrok: Słońce schowało się za horyzontem, a mrok powoli ogarnia wieś.
+
+Mały plac stanowi centrum wsi, zaś centrum placu stanowi studnia. Na zachodzie jest izba weselna, na wschodzie stodoła, na południu wznosi się strażnica, na której szczycie widzisz sylwetkę Stróża, ściskającą w dłoni strzelbę, strzegącą w milczeniu wsi. Od północy do wsi przylega ciemny, gęsty las, do którego prowadzi wąska, kręta ścieżka, wyraźnie z rzadka tylko uczęszczana.
+
+Przy studni siedzi *Dziad Proszalny* i ściąga bandaże ze zdrowej nogi.
+*Drzwi do Izby* są otwarte.
+> n
+
+Zmrok: Słońce schowało się za horyzontem, a mrok powoli ogarnia wieś.
+
+Droga prowadząca do lasu to w zasadzie ledwie dostrzegalna ścieżka ściśnięta między korzeniami sędziwych dębów, buków i wiązów, których liście zasłaniają niebo niemal zupełnie. Nikt, kto nie ma dobrego powodu, by tu być, nie powinien zapuszczać się w gęstwinę bodaj o krok dalej. Ścieżka się rozwidla. Jeśli nie wiesz, gdzie masz iść, lepiej zawróć.
+
+> n
+
+Noc: Na niebie ledwo dostrzec można księżyc przysłoniony chmurami.
+
+Powietrze jest tu ciężkie. Na samej polanie nie rośnie nic prócz dzikiej trawy, tojadu i pokrzywy, zaś otaczające ją wierzby zginają się ku samej ziemi i szumią żałośnie. Nie potrafisz oprzeć się wrażeniu, że to sam las opłakuje tragedię, do której musiało tu dojść. Jedyna droga stąd prowadzi na południe, skąd tu przyszedłeś.
+
+Na środku polany znajduje się *Rozkopana Mogiła*. Ktoś wyraźnie odkopał to coś, co w niej dawno temu zagrzebano, ale potem pospiesznie przykrył z powrotem ziemią.
+> użyj Szpadel na Rozkopana Mogiła
+
+Nie musisz kopać głęboko. Szpadel szybko napotyka na coś twardego, gładszego niż kamień, i pęka od uderzenia. Rozgrzebujesz ziemię rękami i ukazuje się twoim oczom olbrzymia wilcza czaszka, znacząco większa od głowy jakiegokolwiek zwierzęcia, jakie widziałeś w życiu. Jeden z kłów pokrywa świeżo zakrzepła krew. Groza zmraża ci krew w żyłach, włosy stają dęba na karku. To nie jest wilk. To wilkołak. A Pan Młody, nietrzeźwy, musiał się skaleczyć na jego kle. To wyjaśnia siną, nienaturalną opuchliznę. Patrzysz w niebo, szukając księżyca. Jest pełnia. Oczywiście, że jest pełnia.
+!! Nowe zagadnienie w dzienniku: Rozkopana Mogiła
+> s
+
+Noc: Na niebie ledwo dostrzec można księżyc przysłoniony chmurami.
+
+Droga prowadząca do lasu to w zasadzie ledwie dostrzegalna ścieżka ściśnięta między korzeniami sędziwych dębów, buków i wiązów, których liście zasłaniają niebo niemal zupełnie. Nikt, kto nie ma dobrego powodu, by tu być, nie powinien zapuszczać się w gęstwinę bodaj o krok dalej. Ścieżka się rozwidla. Jeśli nie wiesz, gdzie masz iść, lepiej zawróć.
+
+> s
+
+Noc: Na niebie ledwo dostrzec można księżyc przysłoniony chmurami.
+
+Mały plac stanowi centrum wsi, zaś centrum placu stanowi studnia. Na zachodzie jest izba weselna, na wschodzie stodoła, na południu wznosi się strażnica, na której szczycie widzisz sylwetkę Stróża, ściskającą w dłoni strzelbę, strzegącą w milczeniu wsi. Od północy do wsi przylega ciemny, gęsty las, do którego prowadzi wąska, kręta ścieżka, wyraźnie z rzadka tylko uczęszczana.
+
+Przy studni siedzi *Dziad Proszalny* i ściąga bandaże ze zdrowej nogi.
+*Drzwi do Izby* są otwarte.
+> zapytaj Dziad Proszalny o Rozkopana Mogiła
+
+'A więc Bestię odkopali? Niepojęte, nie do pomyślenia... Oj, mam ja ci do powiedzenia, oj mam, ale za ile...?' Rzucasz Dziadowi Proszalnemu cały srebrny grosz. Żebrak kiwa z uznaniem głową, zamyśla się. 'Bestia, proszę ja ciebie, siała tutaj, jak mówią, popłoch i spustoszenie będzie dwadzieścia lat temu. Skąd się wzięła? Niewielu wie. Wieś opustoszała, kto przeżył się zaraz wyniósł, ale Bestia nie zostawiała rannych. Nawet nasz Stróż, co się nikogo nie boi, umknął.' Dziad przerywa swój wywód, patrząc na ciebie z oczekiwaniem. Rzucasz mu kolejny grosz, a on ciągnie dalej. 'Dopiero po wielu miesiącach wrócił i zabił Bestię, zakopał na polanie, gdzie odtąd nic jak chwasty róść nie chce. Taki los spotkał Zgubę wsi Omiegi. Jeśli jest jak myślisz i Pan Młody się skaleczył, i nie daj Boże ściągnął na siebie klątwę... Dziś pełnia. Przekonamy się prędzej, niż chcemy.' Dziad Proszalny patrzy na ciebie z tą samą miną, co wcześniej. Kiedy mówisz mu, że potrzebujesz pieniędzy na drogę, przemawia bez opłaty, cichszym tonem, jakby nagle posmutniał. 'Ja wiem, skąd się Bestia wzięła, chłopcze.' Czekasz, aż powie więcej. 'Okrutny los spotkał Stróża i jego rodzinę. Wiesz na pewno, że Pan Młody jest jego synem. Bestią był jego brat.'
+> s
+
+Noc: Na niebie ledwo dostrzec można księżyc przysłoniony chmurami.
+
+Strażnicą mieszkańcy Omiegów nazywają prostą drewnianą konstrukcję, podobną do myśliwskiej ambony, stojącą tuż przy trakcie. Stróż ma stąd doskonały widok na okolicę: wiejski plac na północy, trakt na południu i niewielką chatę, prawdopodobnie należącą do Stróża, stojącą zaraz obok po wschodniej stronie. Jeśli udasz się na południe i ruszysz traktem, już najpewniej nigdy nie powrócisz do Omiegów.
+
+Na strażnicy stoi oparty o belkę rusztowania starszy mężczyzna o surowym obliczu pooranym bliznami. To musi być *Stróż*.
+*Drzwi Stróża* są zamknięte.
+> zapytaj Stróż o Rozkopana Mogiła
+
+Stróż przybiera najgroźniejszą i najbardziej poważną minę, jaką kiedykolwiek widziałeś. 'Czułem, że to się kiedyś zdarzy, ale żeby mój własny syn, niech go licho porwie. I ta cholerna pełnia... Masz, chłopcze.' Stróż rzuca ci Strzelbę. 'Lepiej na nią uważaj. Jest cenna.' Rzuca też pęk Kluczy. 'Te klucze otwierają i zamykają wszystkie drzwi we wsi. W mojej chacie, tej tu obok, na stole leży czarna szkatułka. W środku jest jedna srebrna kula. Weź ją i... nie zawahaj się, jak ja się zawahałem dwadzieścia lat temu.'
+!! Nowy przedmiot w ekwipunku: Strzelba
+!! Nowy przedmiot w ekwipunku: Klucze
+> użyj Klucze na Drzwi Stróża
+
+Otwierasz *Drzwi Stróża*.
+> e
+
+Zaraz północ: W Omiegach panują ciemności, ale zasłona chmur zaczyna się rozsuwać ukazując blade światło.
+
+Chata Stróża jest zauważalnie starsza od innych budynków w Omiegach. Przez ganek wpada do niej snop księżycowego światła, oświetlając unoszący się wszędzie kurz.
+
+Zgodnie z tym, co mówił Stróż, w czarnej szkatułce na stole leży *Srebrna Kula* do strzelby.
+*Drzwi Stróża* są otwarte.
+> podnieś Srebrna Kula
+
+!! Nowy przedmiot w ekwipunku: Srebrna Kula
+> w
+
+Zaraz północ: W Omiegach panują ciemności, ale zasłona chmur zaczyna się rozsuwać ukazując blade światło.
+
+Strażnicą mieszkańcy Omiegów nazywają prostą drewnianą konstrukcję, podobną do myśliwskiej ambony, stojącą tuż przy trakcie. Stróż ma stąd doskonały widok na okolicę: wiejski plac na północy, trakt na południu i niewielką chatę, prawdopodobnie należącą do Stróża, stojącą zaraz obok po wschodniej stronie. Jeśli udasz się na południe i ruszysz traktem, już najpewniej nigdy nie powrócisz do Omiegów.
+
+Na strażnicy stoi oparty o belkę rusztowania starszy mężczyzna o surowym obliczu pooranym bliznami. To musi być *Stróż*.
+*Drzwi Stróża* są otwarte.
+> n
+
+Zaraz północ: W Omiegach panują ciemności, ale zasłona chmur zaczyna się rozsuwać ukazując blade światło.
+
+Mały plac stanowi centrum wsi, zaś centrum placu stanowi studnia. Na zachodzie jest izba weselna, na wschodzie stodoła, na południu wznosi się strażnica, na której szczycie widzisz sylwetkę Stróża, ściskającą w dłoni strzelbę, strzegącą w milczeniu wsi. Od północy do wsi przylega ciemny, gęsty las, do którego prowadzi wąska, kręta ścieżka, wyraźnie z rzadka tylko uczęszczana.
+
+Przy studni siedzi *Dziad Proszalny* i ściąga bandaże ze zdrowej nogi.
+*Drzwi do Izby* są otwarte.
+> w
+
+Zaraz północ: W Omiegach panują ciemności, ale zasłona chmur zaczyna się rozsuwać ukazując blade światło.
+
+Wnętrze izby rozświetlają świece. Ławy, rozstawione tak licznie jak to było możliwe w dosyć ciasnym pomieszczeniu, zastawione są suto różnego rodzaju strawą i napitkiem. Bielone ściany ozdabiają trofea i mające odpędzać złe moce zioła. Drzwi izby otwierają się na wschód.
+
+Na środku izby, otoczona roześmianymi druhnami, siedzi *Panna Młoda* w kwiecistym wianku weselnym.
+*Pan Młody* pije z dwójką *Gości Weselnych.*
+*Goście Weselni*, w liczbie większej niż kopa, ledwie się pomieścili w izbie.
+*Drzwi do Izby* są otwarte.
+> zapytaj Pan Młody o Rozkopana Mogiła
+
+'Nie myślisz chyba, że... Nie, to niemożliwe, na pewno nic mi nie będzie... Prawda?'
+> zapytaj Panna Młoda o Rozkopana Mogiła
+
+Panna Młoda patrzy na ciebie z niedowierzaniem. 'Niemożliwe. Musi być, że się tamtym osłom pomyliło, niemożliwe żeby mój...' Próbujesz przekonać ją, żeby się schowała, uciekła, cokolwiek... 'Nie, nigdzie nie idę. Nie po to żem się z nim ochajtnęła, żeby zaraz przed nim uciekać, bo mi jakiś... jakiś Domokrążca mówi, że rzekomo wziął i go nieżywy wilkołak pogryzł. Słyszysz ty siebie?'. Widzisz po niej, że jej rzekoma niewiara to blef. Wie, że nie masz powodu kłamać, na pewno też wie o pogrzebanej na polanie bestii więcej, niż ty; mimo to jest zdecydowana zostać u boku męża. Żadnym sposobem nie zmienisz jej zdania.
+> zapytaj Goście Weselni o Rozkopana Mogiła
+
+W odpowiedzi na twoje wykrzyczane ostrzeżenie w izbie zapada milczenie. Wszyscy Goście Weselni patrzą na Pana Młodego, jedni ze współczuciem, inni z pogardą czy niesmakiem, ale wszyscy z prawdziwym niepokojem. Każdy zna legendy o wilkołakach, a Bestia, choć jest we wsi tabu, wciąż nie odeszła w niepamięć. Z czasem wszyscy Goście Weselni - jedni żwawiej, inni po cichu albo oferując wymówki - opuszczają izbę.
+> czekaj
+
+Czy na pewno chcesz to zrobić? Ta czynność może mieć poważne konsekwencje. Wprowadź 't', żeby potwierdzić, jeśli się nie boisz.
+t
+Północ: Na niebie widnieje księżyc w pełni...
+
+Wnętrze izby rozświetlają świece. Ławy, rozstawione tak licznie jak to było możliwe w dosyć ciasnym pomieszczeniu, zastawione są suto różnego rodzaju strawą i napitkiem. Bielone ściany ozdabiają trofea i mające odpędzać złe moce zioła. Drzwi izby otwierają się na wschód.
+
+*Panna Młoda* siedzi przy ławie.
+*Pan Młody* siedzi naprzeciw *Panny Młodej.*
+*Drzwi do Izby* są otwarte.
+
+Nagle Pan Młody zgina się w pół, pada na kolana, drapiąc po podłodze paznokciami, które zaczęły się wydłużać w pazury. Ciało porasta mu futro, stawy wykręcają się, twarz przekształca w wilczy pysk. Po chwili nie ma już Pana Młodego - w jego miejscu stoi olbrzymich rozmiarów wilk, szczerzący kły. W czerwonych oczach Wilkołaka płonie ból i gniew.
+> zastrzel Wilkołak
+
+Huk przez długi czas dzwoni ci echem w uszach. Do izby wpada, utykając, Stróż. Panna Młoda zanosi się płaczem. Oboje klękają przy martwym wilczym ciele Pana Młodego. Stróż obejmuje synową ramieniem i z grobową miną podnosi ku tobie spojrzenie. 'Zrobiłeś, co musiałeś, chłopcze. Zabierz tę Strzelbę, ja już nie mam dla niej potrzeby. I nie chcę jej więcej oglądać'. Wiesz, że ma rację: to była konieczność. Młodzieniec sam ściągnął na siebie ten los, nie trzeba było niepokoić zmarłych przeklętych... Dobrze, że nikt więcej nie zginął. Opierasz Strzelbę o ramię i opuszczasz izbę, wychodzisz na trakt. Wschodzące słońce oświetla ci twarz, a ty wiesz, że wieś Omiegi na długo zapadnie ci w pamięć.
+ghci>
